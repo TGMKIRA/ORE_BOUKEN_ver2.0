@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"主人公","characterIndex":0,"characterName":"主人公","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"主人公","traits":[],"initialLevel":1,"maxLevel":99,"name":"主人公","nickname":"","note":"","profile":"彼の髭は、ただの剃り残しだ"},
+{"id":2,"battlerName":"ヒロイン","characterIndex":0,"characterName":"ヒロイン","classId":3,"equips":[3,1,2,3,0],"faceIndex":0,"faceName":"ヒロイン","traits":[],"initialLevel":1,"maxLevel":99,"name":"ヒロイン","nickname":"","note":"","profile":"子供じゃないよ、大人だからね？"},
+{"id":3,"battlerName":"サブキャラ","characterIndex":0,"characterName":"サブキャラ","classId":2,"equips":[71,0,2,3,4],"faceIndex":0,"faceName":"サブキャラ","traits":[],"initialLevel":1,"maxLevel":99,"name":"サブキャラ男","nickname":"","note":"","profile":"攻撃的な一面がある"},
+{"id":4,"battlerName":"YOGENSHA","characterIndex":0,"characterName":"YOGENSHA","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"YOGENSHA","traits":[],"initialLevel":1,"maxLevel":99,"name":"予言者","nickname":"","note":"","profile":"予言者で城の姫様の友人。"}
+]
